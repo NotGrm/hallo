@@ -46,6 +46,20 @@
         float_left: 'Links'
         float_right: 'Rechts'
         float_none: 'Nein'
+      fr:
+        title_insert: 'Insérer une image'
+        title_properties: 'Propriétés de l\'image'
+        insert: 'Insérer'
+        chage_image: 'Changer l\'image:'
+        source: 'URL'
+        width: 'Largeur'
+        height: 'Hauteur'
+        alt: 'Alt Text'
+        padding: 'Padding'
+        'float': 'Float'
+        float_left: 'Gauche'
+        float_right: 'Droite'
+        float_none: 'Nul'
 
     texts: null
 
