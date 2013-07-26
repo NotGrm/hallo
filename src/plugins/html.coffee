@@ -23,6 +23,10 @@
       de:
         title: 'HTML bearbeiten'
         update: 'Aktualisieren'
+      fr:
+        title: 'Modifier le HTML'
+        update: 'Actualiser'
+        
 
     texts: null
 
